@@ -1,0 +1,6 @@
+tweets.csv
+/FinBERT/analyst_tone/
+/twint/
+extracting_tweets_from_scratch.ipynb
+.ipynb_checkpoints/
+.DS_Store
