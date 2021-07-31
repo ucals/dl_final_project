@@ -4,3 +4,6 @@ tweets.csv
 extracting_tweets_from_scratch.ipynb
 .ipynb_checkpoints/
 .DS_Store
+*.csv
+*.bin
+
